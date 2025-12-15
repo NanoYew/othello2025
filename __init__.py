@@ -5,7 +5,7 @@ from collections import deque
 BLACK = 1
 WHITE = 2
 
-def othello(board, color):
+def myai(board, color):
     """
     オセロの最適な手を返す関数
     """
